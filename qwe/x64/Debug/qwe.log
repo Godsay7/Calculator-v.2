@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Maksym\source\repos\Solution1\qwe\Source.cpp(10,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Maksym\source\repos\Solution1\qwe\Source.cpp(41,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  qwe.vcxproj -> C:\Users\Maksym\source\repos\Solution1\x64\Debug\qwe.exe
